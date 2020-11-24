@@ -12,6 +12,7 @@ Kinect
   booktitle={Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on},
   year={2017}
 }
+
 <a href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">[CycleGAN]</a> (by junyanz)
 
 
@@ -21,4 +22,5 @@ title={StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-t
 booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
 year={2018}
 }
+
 <a href="https://github.com/yunjey/StarGAN">[StarGAN]</a> (by yunjey)
