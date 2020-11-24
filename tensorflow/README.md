@@ -1,5 +1,4 @@
-# CycleGAN-Tensorflow
-Simple Tensorflow implementation of CycleGAN
+# Tensorflow Version
 
 ## Reference
 * [tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
@@ -9,6 +8,3 @@ Simple Tensorflow implementation of CycleGAN
 * [UNIT](https://github.com/taki0112/UNIT-Tensorflow)
 * [MUNIT](https://github.com/taki0112/MUNIT-Tensorflow)
 * [StarGAN-Tensorflow](https://github.com/taki0112/StarGAN-Tensorflow)
-
-## Author
-Junho Kim
