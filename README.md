@@ -1,8 +1,18 @@
 # AVG
  
+ This repo contains the code Generating video adversarial example for action recognition DNN.
+ Two implement version: Tensorflow and Pytorch
+ 
+ ## Classfication Model Implement
+ 
+ <a href=" https://github.com/csuhuihui/pytorch-c3d">[C3D]</a>
+ <a href="  https://github.com/USTC-Video-Understanding/I3D_Finetune">[I3D]</a> 
+ <a href=" https://github.com/qijiezhao/pseudo-3d-pytorch">[P3D]</a> 
+ <a href=" https://https://github.com/kenshohara/video-classification-3d-cnn-pytorch">[RestNet]</a> 
+ 
 ## dataset
 UCF-101
-Kinect
+Kinetics 
 
 ## Reference
 
